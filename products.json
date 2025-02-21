@@ -1,0 +1,15 @@
+{"043983e0-cf56-4e95-a21b-d0afdc049d12":{
+    "id":"043983e0-cf56-4e95-a21b-d0afdc049d12",
+    "name":"Rolex",
+    "price":300,
+    "quantity":70,
+    "image":"image_url.png"
+    },
+    "00aab9b4-65f1-40a7-b3ad-fcd8536d7c8e":{
+        "id":"00aab9b4-65f1-40a7-b3ad-fcd8536d7c8e",
+        "name":"wrist watch",
+        "price":500,
+        "quantity":50,
+        "image":"image_url.png"
+    }
+}
